@@ -1,0 +1,1 @@
+JSON Schema meta object type definition
