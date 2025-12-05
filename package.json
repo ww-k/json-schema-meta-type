@@ -1,7 +1,7 @@
 {
   "name": "json-schema-meta-type",
   "description": "JSON Schema meta object type definition",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/ww-k/json-schema-meta-type.git"
